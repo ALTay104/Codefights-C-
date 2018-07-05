@@ -1,1 +1,2 @@
-# Codefights-C-
+Technical Coding Practice from https://codefights.com/
+
